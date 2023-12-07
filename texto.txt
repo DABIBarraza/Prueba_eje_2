@@ -1,2 +1,2 @@
-Nombre: 
-Rut:
+Nombre: David Barraza
+Rut: 203078358
